@@ -339,7 +339,7 @@ Choose your repo
   
 | [![SlasherOfficial](https://telegra.ph/file/3c341828d86ee7a89c73f.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
 |----|
-| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [𝙁𝘿𝘽 𝘽𝙊𝙎𝙎 𝙎𝙀𝙍](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
@@ -387,14 +387,14 @@ For support, email [ fdbluckyser@gmail.com ] or join our whatsapp group.
 * [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
 * [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
-* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
+* [`🎐 Abraham Dwamena`](https://github.com/psyashidv1) ***For QR Ideas***
+* [`🎐 MR-KALINDU`](https://github.com/Kannanmeenu123) ***For Fixing Errors***
 * 
 
 ---
 
 </p>
-<h1 align="center"> Thanks To  SuhailTechInfo
+<h1 align="center"> Thanks To  SlasherOfficial
 </h1>
 
  <br><br>
