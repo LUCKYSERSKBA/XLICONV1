@@ -1,7 +1,7 @@
 {
-               "name": "xlicon-md",
+               "name": "XLICONV1",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by Samanytofficial.",
+               "description": "Multi device whatsapp bot by FDBLUCKY.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                   "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
                   "stop": "pm2 stop xlicon"
                },
-               "author": "salmanytofficial",
+               "author": "FDBLUCKY",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/LUCKYSERSKBA/XLICONV1.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/LUCKYSERSKBA/XLICONV1/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/LUCKYSERSKBA/XLICONV1#readme"
                   }
