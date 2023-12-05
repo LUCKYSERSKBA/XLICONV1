@@ -98,7 +98,7 @@ After this fill the vars by your own information and paste this JSON to your Rep
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "LUCKYSERSKBA",
+  "OWNER_NAME": "FDBLUCKYSER",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
   "PACK_INFO": "WABOT;Xlicon",
@@ -332,7 +332,7 @@ Choose your repo
   
 | [![SlasherOfficial](https://i.imgur.com/pLi4kQD.png?lenght=50width=50)](https://github.com/LUCKYSERSKBA)|
 |----|
-| [𝙇𝙐𝘾𝙆𝙔 𝙎𝙀𝙍 𝙎𝙆𝘽𝘼  ](https://github.com/LUCKYSERSKBA) |
+| [𝙁𝘿𝘽 𝙇𝙐𝘾𝙆𝙔 𝙎𝙀𝙍   ](https://github.com/LUCKYSERSKBA) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
