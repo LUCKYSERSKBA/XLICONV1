@@ -387,8 +387,8 @@ For support, email [ fdbluckyser@gmail.com ] or join our whatsapp group.
 * [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
 * [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
-* [`🎐 Abraham Dwamena`](https://github.com/psyashidv1) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/Kannanmeenu123) ***For Fixing Errors***
+* [`🎐 psyashidv1`](https://github.com/psyashidv1) ***For QR Ideas***
+* [`🎐Kannanmeenu123 `](https://github.com/Kannanmeenu123) ***For Fixing Errors***
 * 
 
 ---
