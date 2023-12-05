@@ -1,7 +1,7 @@
 const { tlang,cmd,getBuffer } = require('../lib')
 const Config = require('../config')
 const axios = require('axios')
-var nicetitle = '𝐹𝐷𝐵 𝐿𝑈𝐶𝛫𝑌 𝑇𝛩𝛲'
+var nicetitle = '𝐅𝐃𝐁 𝐋𝐔𝐂𝐊𝐘'
 var nicebody = "|| ◁ㅤ❚❚ㅤ▷||ㅤ ↻"
 var niceurl = 'https://github.com/SamPandey001/Secktor-Md'
 const nicepic = 'https://wallpapercave.com/wp/wp9556281.jpg';
