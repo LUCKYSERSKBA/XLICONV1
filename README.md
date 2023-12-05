@@ -13,13 +13,13 @@
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/LUCKYSERSKBA"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LUCKYSERSKBA/XLICON-MD?&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LUCKYSERSKBA/XLICON-MD?style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LUCKYSERSKBA/XLICON-MD?label=Watching&style=social"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="LUCKY SKBA:: Visitor's Count" /></p>
@@ -120,11 +120,11 @@ Choose your repo
 
 
 3.Heroku Installation 
-[HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH)
+[HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpkkkng)
 
 
 4.Deploy On Vps
-[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
+[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-onjkoijnnb)
 
 
   ........................................................
