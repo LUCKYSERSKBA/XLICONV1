@@ -337,7 +337,7 @@ Choose your repo
 
 <br>
   
-| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
+| [![SlasherOfficial](https://telegra.ph/file/3c341828d86ee7a89c73f.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
 |----|
 | [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
