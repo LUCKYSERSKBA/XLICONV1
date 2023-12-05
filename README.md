@@ -330,7 +330,7 @@ Choose your repo
 
 <div align="center">
   
-| [luckyserskba](https://i.imgur.com/pLi4kQD.png?lenght=50width=50)](https://github.com/LUCKYSERSKBA)|
+| [luckyserskba](https://i.imgur.com/pLi4kQD.jpg?lenght=50width=50)](https://github.com/LUCKYSERSKBA)|
 |----|
 | [𝙇𝙐𝘾𝙆𝙔 𝙎𝙀𝙍 𝙎𝙆𝘽𝘼  ](https://github.com/LUCKYSERSKBA) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
