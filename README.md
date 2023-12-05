@@ -40,7 +40,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LUCKYSERSKBA/XLICONV1/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
@@ -144,7 +144,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/salmanytofficial/XLICON-MD">
+    <a href="https://repl.it/github/LUCKYSERSKBA/XLICONV1">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
