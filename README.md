@@ -330,7 +330,7 @@ Choose your repo
 
 <div align="center">
   
-| [![SlasherOfficial](https://i.imgur.com/pLi4kQD.png?lenght=50width=50)](https://github.com/LUCKYSERSKBA)|
+| [![SlasherOfficial](https://i.imgur.com/9qVvNJM.png?lenght=50width=50)](https://github.com/LUCKYSERSKBA)|
 |----|
 | [𝙁𝘿𝘽 𝙇𝙐𝘾𝙆𝙔 𝙎𝙀𝙍   ](https://github.com/LUCKYSERSKBA) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
