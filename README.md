@@ -75,7 +75,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 
 ```
-mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://4xbossx4xlucky:2nJQjEUsaSibi3kT@cluster0.toehctl.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
